@@ -1,7 +1,4 @@
-// Impement fizzbuzz logic
-function fizzbuzz(number) {
-  return '0';
-}
+const fizzbuzz = require('./fizzbuzz');
 
 // Implement the wrapper so we can count from 0 to STOP.
 function main() {
